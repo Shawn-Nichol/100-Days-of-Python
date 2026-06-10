@@ -1,4 +1,4 @@
-# Day 4: Randomisation and Python Lists
+# Day 4: Randomization and Python Lists
 An overview of my progress, key learnings, and the project built on Day 4 of the 100 Days of Code Python Bootcamp.
 
 <br><br>
